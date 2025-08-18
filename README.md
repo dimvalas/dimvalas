@@ -14,6 +14,8 @@
 ![Code](https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Library](https://img.shields.io/badge/Library-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Routing](https://img.shields.io/badge/Routing-Pages-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+[Runtime](https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-Pages-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Portfolio
 🔗 [dimvalas.github.io/portfolio](https://dimvalas.github.io/portfolio/portfolio.html)
