@@ -3,7 +3,7 @@
 
 ---
 
-## Tech Stack
+## What I Use
 
 
 ![OS](https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=555555)
