@@ -22,4 +22,6 @@
 
 ## Contact Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Open-000000?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=555555)](https://dimvalas.github.io/portfolio/portfolio.html)
+
 If you are looking to connect, please contact me through my portfolio.
