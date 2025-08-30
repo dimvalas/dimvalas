@@ -13,5 +13,5 @@ Languages & Frameworks
 
 # Connect with Me
 
-<img src="https://img.shields.io/badge/valas.dv-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/valasellis.d-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/dimvalas-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/valas.dv-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white">
