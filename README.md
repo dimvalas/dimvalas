@@ -19,3 +19,7 @@
 ![Library](https://img.shields.io/badge/Library-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=555555)
 ![Runtime](https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=555555)
 ![Routing](https://img.shields.io/badge/Routing-Pages-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=555555)
+
+## Contact Me
+
+If you are looking to connect, please contact me through my portfolio.
