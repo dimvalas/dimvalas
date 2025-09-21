@@ -39,7 +39,7 @@ Passionate about creating exceptional web experiences through clean code and tho
 
 ## GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=dimvalass&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=dimvalas&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
 
 ## Contribution Activity
 
